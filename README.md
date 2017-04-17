@@ -8,3 +8,8 @@ _This is the cleaned up version of work in the [offical group repo](https://gith
 ### Chapter 2: Selection Sort
 1. [Create a recursive countdown function.](recursive-countdown.md)
 2. [Create an example of selection sort.](selection-sort.md)
+
+### Chapters 3+4: Recursion, Quicksort
+1. [Write out a recursive sum function.](recursive-sum.md)
+2. [Find the maximum number in a list.](recursive-find-max.md)
+3. [Sort an array using quicksort.](quicksort.md)
