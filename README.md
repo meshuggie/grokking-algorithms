@@ -4,3 +4,7 @@
 ## Seattle Meetup Bookstudy
 Read and study the various algorithms in the book. Present solutions to challenges from the book and group.
 _This is the cleaned up version of work in the [offical group repo](https://github.com/TravisSpangle/GrokkingAlgorithms)._
+
+### Chapter 2: Selection Sort
+1. [Create a recursive countdown function.](recursive-countdown.md)
+2. [Create an example of selection sort.](selection-sort.md)
