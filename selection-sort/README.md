@@ -1,5 +1,6 @@
 # Ch. 2 Homework
 __Create a recursive countdown function.__
+[Link to jsfiddle example](https://jsfiddle.net/meshuggie/t9bctdsL/)
 
 ```javascript
 "use strict";
