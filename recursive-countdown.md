@@ -24,7 +24,7 @@ class App {
 }
 
 mocha.setup('bdd');
-var expect = chai.expect;
+const expect = chai.expect;
 
 describe('Recursive Countdown Function', function() {
 	it('counts down from 5', function() {
