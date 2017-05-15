@@ -28,7 +28,7 @@ const expect = chai.expect;
 
 describe('Recursive Countdown Function', function() {
 	it('counts down from 5', function() {
-  	const app = new App(5)
+  	let app = new App(5)
     expect(app.results).to.equal('5 4 3 2 1 ')
   });
 });
