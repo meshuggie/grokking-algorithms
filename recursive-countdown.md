@@ -35,6 +35,6 @@ describe('Recursive Countdown Function', function() {
 
 mocha.run();
 
-const app = new App(5)
+let app = new App(5)
 document.getElementsByClassName('results')[0].innerHTML = app.results
 ```
